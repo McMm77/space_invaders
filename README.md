@@ -1,2 +1,5 @@
-# space_invaders
-Another space invaders emulator for learning purpose
+# 8080 emulator
+
+TO DO
+
+Offsets (0x100) for emulator and deassembler
